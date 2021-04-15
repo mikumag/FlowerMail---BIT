@@ -3,7 +3,9 @@
 BIT 大二 小学期 计算机学院 邮件系统 Neusoft
 
 ## Description
-This project is a simple mail system based on C++ and Qt, including user register & login, sending and receiving emails, favorites, drafts box, forwarding, copying, adjusting fonts and other functions.
+This project is a simple mail system based on C++ and Qt.
+
+Functions including user register & login, sending and receiving emails, favorites, drafts box, forwarding, copying, adjusting fonts and others.
 
 ## UI
 UI is designed with Qt 5.14.0:
