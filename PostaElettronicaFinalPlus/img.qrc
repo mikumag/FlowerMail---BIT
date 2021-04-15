@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/arrowdown.JPG</file>
+        <file>img/Box_withFolders.png</file>
+        <file>img/email_sent.png</file>
+        <file>img/font.png</file>
+        <file>img/left.png</file>
+        <file>img/mail.png</file>
+        <file>img/refresh.png</file>
+        <file>img/right.png</file>
+        <file>img/search.png</file>
+        <file>img/sfondoLogin.jpg</file>
+        <file>img/sfondoRegistrazione.jpg</file>
+        <file>img/star.png</file>
+        <file>img/trash.png</file>
+        <file>img/user.JPG</file>
+        <file>img/write.png</file>
+        <file>img/attachment.png</file>
+        <file>img/retweet.png</file>
+        <file>img/logout.png</file>
+        <file>img/reply.png</file>
+    </qresource>
+</RCC>
