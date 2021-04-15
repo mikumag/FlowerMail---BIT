@@ -12,6 +12,7 @@ UI is designed with Qt 5.14.0:
 ![image](https://user-images.githubusercontent.com/44541661/114859563-7fc83700-9e1d-11eb-8f6e-4e3def3675a7.png)
 ![image](https://user-images.githubusercontent.com/44541661/114859577-85be1800-9e1d-11eb-9323-b1099702a8fb.png)
 
-## Codes
+## Code
 `./PostaElettronicaFinalPlus`: Source code of mail client
+
 `./Server_Final`: Server (written in C)
