@@ -3,7 +3,7 @@
 BIT 大二 小学期 计算机学院 邮件系统 Neusoft
 
 ## Description
-This project is a simple mail system based on C++, Qt and MySQL Database.
+This project is a toy mail system based on C++, Qt and MySQL Database.
 
 Functions including user register & login, sending and receiving emails, favorites, drafts box, forwarding, copying, adjusting fonts and others.
 
